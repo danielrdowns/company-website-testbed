@@ -1,3 +1,28 @@
+Hello. 
+
+This is the README for the Defilade website.
+
+This blog uses the Minimal Mistakes theme by Michael Rose. See here: https://github.com/mmistakes/minimal-mistakes
+
+Resources: 
+
+https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+
+v 1.0 To Do list
+- Make a proper Home page
+- Make a Contact Us page
+- Make a Our Method page
+- Make a Our Partners page
+- Make a Our Team page
+- Make a Privacy Statement page
+- Make a Terms of Use page
+- Make a Blog page (fold COVID-19 response into this)
+- Assign new site to defiladecorp.com domain via GoDaddy
+
+
+
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
