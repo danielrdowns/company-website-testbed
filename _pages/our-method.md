@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /our-method/
+title: "Our Method"
 author_profile: false
 ---
 
