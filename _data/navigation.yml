@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /index/
+  - title: "Our Method"
+    url: /our-method/
+  - title: "Our Team"
+    url: /our-team/
+  - title: "Our Partners"
+    url: /our-partners/
+  - title: "COVID-19 Response"
+    url: /covid-19-response/
+  - title: "Contact Us"
+    url: /contact-us/
